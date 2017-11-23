@@ -1,2 +1,2 @@
-# sanic
-Turing game
+# Sanic Generations
+Mini-game created on Turing
